@@ -9,7 +9,7 @@ credits: true
 ---
 
 
-{% include feature/jumbotron.html objectid="a124" %}
+{% include feature/jumbotron.html objectid="a124" caption="Westhampton Beach, Hurricane of 1938" %}
 
 ## About the Collection
 
