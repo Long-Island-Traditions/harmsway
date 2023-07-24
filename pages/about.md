@@ -11,8 +11,6 @@ credits: true
 
 {% include feature/jumbotron.html objectid="a124" %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
-
 ## About the Collection
 
 {% include feature/image.html objectid="a51" width="75" %}
