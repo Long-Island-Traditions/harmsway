@@ -18,5 +18,4 @@ Long Island is not alone in facing these issues. Hurricanes Irene and Lee devast
 
 Click through our sections, {% include feature/button.html text="Looking Back" link="https://long-island-traditions.github.io/harmsway/lookingback.html" color="dark" %} {% include feature/button.html text="Sandy, Irene, and Lee" link="https://long-island-traditions.github.io/harmsway/sandy.html" color="dark" %} and {% include feature/button.html text="Looking Forward" link="https://long-island-traditions.github.io/harmsway/lookingforwards.html" color="dark" %} to learn more! 
 
-{% include feature/timelinejs.html %}
 
