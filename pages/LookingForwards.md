@@ -1,10 +1,10 @@
 ---
-title: Looking Forward
+title: Looking Forwards
 layout: about
 permalink: /lookingforwards.html
 ---
 
-# Looking Forward
+# Looking Forwards
 
 >"I think Sandy was a big eye-opening event. But maybe not to the extent that people are ready to leave our shores. Is that an idea we can wrap our heads around? For some it comes very easily because they've lived through several storms and lost their life possessions. And for others, who may have gone through something like that, they simply don't want to leave." -David Sabatino, Regional Planner
 
