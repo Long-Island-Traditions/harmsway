@@ -5,9 +5,6 @@ date,Date,
 description,Description,
 subject,Subjects,true
 location,Location,
-latitude,Latitude,
-longitude,Longitude,
-type,Type,
 identifier,Source Identifier,,
 rights,Rights,
 rightsstatement,Rights Statement,,true
