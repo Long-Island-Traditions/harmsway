@@ -23,7 +23,7 @@ This virtual exhibit is meant to showcase the materials from the physical exhibi
 
 This exhibit was created by [Heidi Yarger](www.linkedin.com/in/heidi-yarger-93254114b) with the generous support of Long Island Traditions Director, Nancy Solomon. 
 
- {% include feature/pdf.html objectid="a016" width="50" caption="Thanks to all who made this exhibit possible!" %}
+
 
 
 
